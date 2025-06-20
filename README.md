@@ -15,55 +15,55 @@ Subscribe to our Substack to receive curated newsletters on the latest multisens
 Below are the tags used throughout this archive. Tagging papers is in progress. Contact me for contributing in tagging papers: alireza.karimi@vanderbilt.edu.
 
 ### 🏷️ TASK-TAG  
-<span style="background:#E57373;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">TASK-TAG:passive</span>  
-<span style="background:#E57373;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">TASK-TAG:detection</span>    
-<span style="background:#E57373;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">TASK-TAG:attention</span>    
-<span style="background:#E57373;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">TASK-TAG:working memory</span>    
+![TASK: passive](https://img.shields.io/badge/TASK--TAG-passive-E57373?labelColor=E57373&color=ffffff)
+![TASK: detection](https://img.shields.io/badge/TASK--TAG-detection-E57373?labelColor=E57373&color=ffffff)
+![TASK: attention](https://img.shields.io/badge/TASK--TAG-attention-E57373?labelColor=E57373&color=ffffff)
+![TASK: working memory](https://img.shields.io/badge/TASK--TAG-working%20memory-E57373?labelColor=E57373&color=ffffff)
 
 ### 🎨 SENSES-TAG  
-<span style="background:#64B5F6;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SENSES-TAG:auditory</span>  
-<span style="background:#64B5F6;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SENSES-TAG:visual</span>  
-<span style="background:#64B5F6;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SENSES-TAG:somatosensory</span>  
+![auditory](https://img.shields.io/badge/SENSES--TAG-auditory-64B5F6?labelColor=64B5F6&color=000000)
+![visual](https://img.shields.io/badge/SENSES--TAG-visual-64B5F6?labelColor=64B5F6&color=000000)
+![somatosensory](https://img.shields.io/badge/SENSES--TAG-somatosensory-64B5F6?labelColor=64B5F6&color=000000)
 
 ### 💾 DATA-TAG  
-<span style="background:#66BB6A;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">DATA-TAG:single unit</span>  
-<span style="background:#66BB6A;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">DATA-TAG:LFP</span>  
-<span style="background:#66BB6A;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">DATA-TAG:fMRI</span>  
-<span style="background:#66BB6A;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">DATA-TAG:EEG</span>  
+![single unit](https://img.shields.io/badge/DATA--TAG-single%20unit-66BB6A?labelColor=66BB6A&color=ffffff)
+![LFP](https://img.shields.io/badge/DATA--TAG-LFP-66BB6A?labelColor=66BB6A&color=ffffff)
+![fMRI](https://img.shields.io/badge/DATA--TAG-fMRI-66BB6A?labelColor=66BB6A&color=ffffff)
+![EEG](https://img.shields.io/badge/DATA--TAG-EEG-66BB6A?labelColor=66BB6A&color=ffffff)
 
 ### 🗺️ REGION-TAG  
-<span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:STS</span>  
-<span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:DLPFC</span>  
-<span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:VLPFC</span>  
-<span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:SC</span>  
-<span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:auditory cortex</span>  
-<span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:visual cortex</span>  
-<span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:spinal cord</span>  
+![STS](https://img.shields.io/badge/REGION--TAG-STS-BA68C8?labelColor=BA68C8&color=ffffff)
+![DLPFC](https://img.shields.io/badge/REGION--TAG-DLPFC-BA68C8?labelColor=BA68C8&color=ffffff)
+![VLPFC](https://img.shields.io/badge/REGION--TAG-VLPFC-BA68C8?labelColor=BA68C8&color=ffffff)
+![SC](https://img.shields.io/badge/REGION--TAG-SC-BA68C8?labelColor=BA68C8&color=ffffff)
+![auditory cortex](https://img.shields.io/badge/REGION--TAG-auditory%20cortex-BA68C8?labelColor=BA68C8&color=ffffff)
+![visual cortex](https://img.shields.io/badge/REGION--TAG-visual%20cortex-BA68C8?labelColor=BA68C8&color=ffffff)
+![spinal cord](https://img.shields.io/badge/REGION--TAG-spinal%20cord-BA68C8?labelColor=BA68C8&color=ffffff)
 
 ### 👥 SUBJECT-TAG  
-<span style="background:#FFD54F;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SUBJECT-TAG:human</span>  
-<span style="background:#FFD54F;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SUBJECT-TAG:rodent</span>  
-<span style="background:#FFD54F;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SUBJECT-TAG:monkey</span>  
-<span style="background:#FFD54F;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SUBJECT-TAG:cat</span>  
+![human](https://img.shields.io/badge/SUBJECT--TAG-human-FFD54F?labelColor=FFD54F&color=000000)
+![rodent](https://img.shields.io/badge/SUBJECT--TAG-rodent-FFD54F?labelColor=FFD54F&color=000000)
+![monkey](https://img.shields.io/badge/SUBJECT--TAG-monkey-FFD54F?labelColor=FFD54F&color=000000)
+![cat](https://img.shields.io/badge/SUBJECT--TAG-cat-FFD54F?labelColor=FFD54F&color=000000)
 
 ### 🔬 OTHER-TAG  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:reaction time</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:race model</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:additivity metrics</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:causal study</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:temporal and spatial analysis</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:decoding</span>    
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:developmental</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:clinical</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:PCA</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:speech and language</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:autism</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:schizophrenia</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:virtual and augmented reality</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:noise exposure</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:anatomy</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:plasticity</span>  
-<span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:bayesian inference</span>  
+![reaction time](https://img.shields.io/badge/OTHER--TAG-reaction%20time-A1887F?labelColor=A1887F&color=ffffff)
+![race model](https://img.shields.io/badge/OTHER--TAG-race%20model-A1887F?labelColor=A1887F&color=ffffff)
+![additivity metrics](https://img.shields.io/badge/OTHER--TAG-additivity%20metrics-A1887F?labelColor=A1887F&color=ffffff)
+![causal study](https://img.shields.io/badge/OTHER--TAG-causal%20study-A1887F?labelColor=A1887F&color=ffffff)
+![temporal & spatial](https://img.shields.io/badge/OTHER--TAG-temporal%20%26%20spatial-A1887F?labelColor=A1887F&color=ffffff)
+![decoding](https://img.shields.io/badge/OTHER--TAG-decoding-A1887F?labelColor=A1887F&color=ffffff)
+![developmental](https://img.shields.io/badge/OTHER--TAG-developmental-A1887F?labelColor=A1887F&color=ffffff)
+![clinical](https://img.shields.io/badge/OTHER--TAG-clinical-A1887F?labelColor=A1887F&color=ffffff)
+![PCA](https://img.shields.io/badge/OTHER--TAG-PCA-A1887F?labelColor=A1887F&color=ffffff)
+![speech & language](https://img.shields.io/badge/OTHER--TAG-speech%20%26%20language-A1887F?labelColor=A1887F&color=ffffff)
+![autism](https://img.shields.io/badge/OTHER--TAG-autism-A1887F?labelColor=A1887F&color=ffffff)
+![schizophrenia](https://img.shields.io/badge/OTHER--TAG-schizophrenia-A1887F?labelColor=A1887F&color=ffffff)
+![virtual / AR](https://img.shields.io/badge/OTHER--TAG-virtual%20%2F%20AR-A1887F?labelColor=A1887F&color=ffffff)
+![noise exposure](https://img.shields.io/badge/OTHER--TAG-noise%20exposure-A1887F?labelColor=A1887F&color=ffffff)
+![anatomy](https://img.shields.io/badge/OTHER--TAG-anatomy-A1887F?labelColor=A1887F&color=ffffff)
+![plasticity](https://img.shields.io/badge/OTHER--TAG-plasticity-A1887F?labelColor=A1887F&color=ffffff)
+![bayesian inference](https://img.shields.io/badge/OTHER--TAG-bayesian%20inference-A1887F?labelColor=A1887F&color=ffffff)
 
 ## List of Content
 
@@ -118,67 +118,54 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 
 #### June 2025
 
-<div style="background: #f6f8fa; border-radius: 6px; padding: 1em; margin-bottom: 1em;">
-
-  <pre style="margin:0; overflow-x:auto;"><code class="language-bibtex">
+~~~bibtex
 @article{vastano2025erps,
-  title={ERPs evidence of multisensory integration deficits in spinal cord injury},
-  author={Vastano, Roberta and Costantini, Marcello and Widerstrom-Noga, Eva},
-  journal={Neuroscience},
-  year={2025},
-  publisher={Elsevier}
+  title  = {ERPs evidence of multisensory integration deficits in spinal cord injury},
+  author = {Vastano, Roberta and Costantini, Marcello and Widerstrom-Noga, Eva},
+  journal = {Neuroscience},
+  year   = {2025},
+  publisher = {Elsevier}
 }
-  </code></pre>
+~~~
 
-  <div style="margin-top:0.5em;">
-    <span style="background:#E57373;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">TASK-TAG:detection</span>
-    <span style="background:#64B5F6;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SENSES-TAG:auditory</span>  
-    <span style="background:#64B5F6;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SENSES-TAG:visual</span>  
-    <span style="background:#64B5F6;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SENSES-TAG:somatosensory</span>  
-    <span style="background:#66BB6A;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">DATA-TAG:EEG</span>
-    <span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:spinal cord</span>
-    <span style="background:#FFD54F;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SUBJECT-TAG:human</span>
-    <span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:reaction time</span>  
-    <span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:race model</span>
-    <span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:clinical</span>
-  </div>
+![TASK: detection](https://img.shields.io/badge/TASK--TAG-detection-E57373?labelColor=E57373&color=ffffff)
+![SENSES: auditory](https://img.shields.io/badge/SENSES--TAG-auditory-64B5F6?labelColor=64B5F6&color=000000)
+![SENSES: visual](https://img.shields.io/badge/SENSES--TAG-visual-64B5F6?labelColor=64B5F6&color=000000)
+![SENSES: somatosensory](https://img.shields.io/badge/SENSES--TAG-somatosensory-64B5F6?labelColor=64B5F6&color=000000)
+![DATA: EEG](https://img.shields.io/badge/DATA--TAG-EEG-66BB6A?labelColor=66BB6A&color=ffffff)
+![REGION: spinal cord](https://img.shields.io/badge/REGION--TAG-spinal%20cord-BA68C8?labelColor=BA68C8&color=ffffff)
+![SUBJECT: human](https://img.shields.io/badge/SUBJECT--TAG-human-FFD54F?labelColor=FFD54F&color=000000)
+![OTHER: reaction time](https://img.shields.io/badge/OTHER--TAG-reaction%20time-A1887F?labelColor=A1887F&color=ffffff)
+![OTHER: race model](https://img.shields.io/badge/OTHER--TAG-race%20model-A1887F?labelColor=A1887F&color=ffffff)
+![OTHER: clinical](https://img.shields.io/badge/OTHER--TAG-clinical-A1887F?labelColor=A1887F&color=ffffff)
 
-  <div style="margin-top:0.5em;">
-    <a href="https://www.ibroneuroscience.org/article/S0306-4522(25)00341-0/fulltext" target="_blank">🔗 Read full paper</a>
-  </div>
+[🔗 Read full paper](https://www.ibroneuroscience.org/article/S0306-4522%2825%2900341-0/fulltext)
 
-</div>
+---
 
-
-<div style="background: #f6f8fa; border-radius: 6px; padding: 1em; margin-bottom: 1em;">
-
-  <pre style="margin:0; overflow-x:auto;"><code class="language-bibtex">
+~~~bibtex
 @article{karimi2025integration,
-  title={Integration of Audiovisual Motion in Dorsolateral Prefrontal Cortical Neurons},
-  author={Karimi, Alireza and Mozumder, Rana and Schoenhaut, Adriana and Rausis, Oscar and Wallace, Mark and Ramachandran, Ramnarayan and Constantinidis, Christos},
-  journal={bioRxiv},
-  pages={2025--06},
-  year={2025},
-  publisher={Cold Spring Harbor Laboratory}
+  title   = {Integration of Audiovisual Motion in Dorsolateral Prefrontal Cortical Neurons},
+  author  = {Karimi, Alireza and Mozumder, Rana and Schoenhaut, Adriana and Rausis, Oscar and Wallace, Mark and Ramachandran, Ramnarayan and Constantinidis, Christos},
+  journal = {bioRxiv},
+  pages   = {2025--06},
+  year    = {2025},
+  publisher = {Cold Spring Harbor Laboratory}
 }
-  </code></pre>
+~~~
 
-  <div style="margin-top:0.5em;">
-    <span style="background:#E57373;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">TASK-TAG:passive</span>
-    <span style="background:#64B5F6;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SENSES-TAG:auditory</span>  
-    <span style="background:#64B5F6;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SENSES-TAG:visual</span>  
-    <span style="background:#66BB6A;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">DATA-TAG:single unit</span>
-    <span style="background:#BA68C8;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">REGION-TAG:DLPFC</span>
-    <span style="background:#FFD54F;color:#000;border-radius:3px;padding:2px 6px;font-size:0.9em;">SUBJECT-TAG:monkey</span>
-    <span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:additivity metrics</span>
-    <span style="background:#A1887F;color:#fff;border-radius:3px;padding:2px 6px;font-size:0.9em;">OTHER-TAG:decoding</span>
-  </div>
+![TASK: passive](https://img.shields.io/badge/TASK--TAG-passive-E57373?labelColor=E57373&color=ffffff)
+![SENSES: auditory](https://img.shields.io/badge/SENSES--TAG-auditory-64B5F6?labelColor=64B5F6&color=000000)
+![SENSES: visual](https://img.shields.io/badge/SENSES--TAG-visual-64B5F6?labelColor=64B5F6&color=000000)
+![DATA: single unit](https://img.shields.io/badge/DATA--TAG-single%20unit-66BB6A?labelColor=66BB6A&color=ffffff)
+![REGION: DLPFC](https://img.shields.io/badge/REGION--TAG-DLPFC-BA68C8?labelColor=BA68C8&color=ffffff)
+![SUBJECT: monkey](https://img.shields.io/badge/SUBJECT--TAG-monkey-FFD54F?labelColor=FFD54F&color=000000)
+![OTHER: additivity metrics](https://img.shields.io/badge/OTHER--TAG-additivity%20metrics-A1887F?labelColor=A1887F&color=ffffff)
+![OTHER: decoding](https://img.shields.io/badge/OTHER--TAG-decoding-A1887F?labelColor=A1887F&color=ffffff)
 
-  <div style="margin-top:0.5em;">
-    <a href="https://www.biorxiv.org/content/10.1101/2025.06.11.656227v1" target="_blank">🔗 Read full paper</a>
-  </div>
+[🔗 Read full paper](https://www.biorxiv.org/content/10.1101/2025.06.11.656227v1)
 
-</div>
+---
 
 ```bibtex
 @article{anil2025fusing,
