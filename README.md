@@ -75,7 +75,7 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
     - [March 2025](#march-2025)
     - [February 2025](#february-2025)
     - [January 2025](#january-2025)
-  - [🟩 2000 – 2024 (Yearly)](#-2000-2024-yearly)
+  - [🟩 2000 – 2024 (Yearly)](#-2000--2024-yearly)
     - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
@@ -120,11 +120,11 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 
 ~~~bibtex
 @article{vastano2025erps,
-  title  = {ERPs evidence of multisensory integration deficits in spinal cord injury},
-  author = {Vastano, Roberta and Costantini, Marcello and Widerstrom-Noga, Eva},
-  journal = {Neuroscience},
-  year   = {2025},
-  publisher = {Elsevier}
+  title={ERPs evidence of multisensory integration deficits in spinal cord injury},
+  author={Vastano, Roberta and Costantini, Marcello and Widerstrom-Noga, Eva},
+  journal={Neuroscience},
+  year={2025},
+  publisher={Elsevier}
 }
 ~~~
 
@@ -145,12 +145,12 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 
 ~~~bibtex
 @article{karimi2025integration,
-  title   = {Integration of Audiovisual Motion in Dorsolateral Prefrontal Cortical Neurons},
-  author  = {Karimi, Alireza and Mozumder, Rana and Schoenhaut, Adriana and Rausis, Oscar and Wallace, Mark and Ramachandran, Ramnarayan and Constantinidis, Christos},
-  journal = {bioRxiv},
-  pages   = {2025--06},
-  year    = {2025},
-  publisher = {Cold Spring Harbor Laboratory}
+  title={Integration of Audiovisual Motion in Dorsolateral Prefrontal Cortical Neurons},
+  author={Karimi, Alireza and Mozumder, Rana and Schoenhaut, Adriana and Rausis, Oscar and Wallace, Mark and Ramachandran, Ramnarayan and Constantinidis, Christos},
+  journal={bioRxiv},
+  pages={2025--06},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ~~~
 
