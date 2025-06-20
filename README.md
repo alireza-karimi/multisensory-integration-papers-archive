@@ -68,14 +68,14 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 ## List of Content
 
 - Papers List by Date
-  - [🟩 2025](#2025)
+  - [🟩 2025](#-2025)
     - [June 2025](#june-2025)
     - [May 2025](#may-2025)
     - [April 2025](#april-2025)
     - [March 2025](#march-2025)
     - [February 2025](#february-2025)
     - [January 2025](#january-2025)
-  - [🟩 2000 – 2024 (Yearly)](#2000-2024-yearly)
+  - [🟩 2000 – 2024 (Yearly)](#-2000-2024-yearly)
     - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
@@ -101,15 +101,15 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
     - [2002](#2002)
     - [2001](#2001)
     - [2000](#2000)
-  - [🟩 Pre-2000 (Decade-wise)](#pre-2000-decade-wise)
+  - [🟩 Pre-2000 (Decade-wise)](#-pre-2000-decade-wise)
     - [1990–1999](#1990-1999)
     - [1980–1989](#1980-1989)
     - [1970–1979](#1970-1979)
     - [1960–1970](#1960-1970)
     - [Before 1960](#before-1960)
-- [👥 Multisensory Integration Researchers](#multisensory-integration-researchers)
-- [📌 Contributing](#contributing)
-- [📖 License](#license)
+- [👥 Multisensory Integration Researchers](#-multisensory-integration-researchers)
+- [📌 Contributing](#-contributing)
+- [📖 License](#-license)
 
 
 ## 📅 Multisensory Integration Papers by Date
