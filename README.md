@@ -183,6 +183,15 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 #### May 2025
 
 ```bibtex
+@article{vassall2025sensory,
+  title={Sensory and Multisensory Processing Changes and Their Contributions to Autism and Schizophrenia},
+  author={Vassall, Sarah G and Wallace, Mark T},
+  year={2025},
+  publisher={Springer}
+}
+```
+
+```bibtex
 @article{octary2025multisensory,
   title={Multisensory stimulation reduces neuropsychiatric symptoms and enhances cognitive function in older adults with dementia: A meta-analysis of randomized controlled trials},
   author={Octary, Tiara and Fajarini, Melati and Arifin, Hidayat and Chen, Ruey and Sung, Chien-Mei and Chang, Li-Fang and Wang, Chia-Hui and Banda, Kondwani Joseph and Chou, Kuei-Ru},
