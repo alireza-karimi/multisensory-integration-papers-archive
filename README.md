@@ -536,6 +536,19 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 #### 2023
 
 ```bibtex
+@article{bimbard2023behavioral,
+  title={Behavioral origin of sound-evoked activity in mouse visual cortex},
+  author={Bimbard, C{\'e}lian and Sit, Timothy PH and Lebedeva, Anna and Reddy, Charu B and Harris, Kenneth D and Carandini, Matteo},
+  journal={Nature neuroscience},
+  volume={26},
+  number={2},
+  pages={251--258},
+  year={2023},
+  publisher={Nature Publishing Group US New York}
+}
+```
+
+```bibtex
 @article{coen2023mouse,
   title={Mouse frontal cortex mediates additive multisensory decisions},
   author={Coen, Philip and Sit, Timothy PH and Wells, Miles J and Carandini, Matteo and Harris, Kenneth D},
@@ -1295,6 +1308,19 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 ```
 
 #### 2017
+
+```bibtex
+@article{meijer2017audiovisual,
+  title={Audiovisual modulation in mouse primary visual cortex depends on cross-modal stimulus configuration and congruency},
+  author={Meijer, Guido T and Montijn, Jorrit S and Pennartz, Cyriel MA and Lansink, Carien S},
+  journal={Journal of Neuroscience},
+  volume={37},
+  number={36},
+  pages={8783--8796},
+  year={2017},
+  publisher={Society for Neuroscience}
+}
+```
 
 ```bibtex
 @article{briscoe2017multisensory,
