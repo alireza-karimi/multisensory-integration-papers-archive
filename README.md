@@ -69,6 +69,8 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 
 - Papers List by Date
   - [🟩 2025](#-2025)
+    - [August 2025](#august-2025)
+    - [July 2025](#july-2025)
     - [June 2025](#june-2025)
     - [May 2025](#may-2025)
     - [April 2025](#april-2025)
@@ -116,7 +118,190 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 
 ### 🟩 2025
 
+#### August 2025
+
+#### July 2025
+
+```bibtex
+@article{vanneau2025impaired,
+  title={Impaired neural encoding of naturalistic audiovisual speech in autism},
+  author={Vanneau, Theo and Crosse, Michael J and Foxe, John J and Molholm, Sophie},
+  journal={NeuroImage},
+  volume={318},
+  pages={121397},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
+```bibtex
+@article{bartolini19study,
+  title={The study of multisensory interception for interaction with objects and others in visually impaired children},
+  author={Bartolini, Tommaso and Riberto, Martina and Vitali, Helene and Wallace, Mark T and Gori, Monica},
+  journal={Frontiers in Human Neuroscience},
+  volume={19},
+  pages={1645731},
+  publisher={Frontiers}
+}
+```
+
+```bibtex
+@article{pulliam2025associations,
+  title={Associations Between Audiovisual Integration and Reading Comprehension in Autistic and Non-autistic School-Aged Children},
+  author={Pulliam, Grace and Feldman, Jacob I and Wallace, Mark T and Cutting, Laurie E and Woynaroski, Tiffany G},
+  journal={Journal of Autism and Developmental Disorders},
+  pages={1--13},
+  year={2025},
+  publisher={Springer}
+}
+```
+
+```bibtex
+@article{delmas2025moderate,
+  title={Moderate presbycusis boosts audio-visual integration, but not lip-reading},
+  author={Delmas, Tanguy and Van Cang, Mathieu Pham and Gerenton, Gregory and Lefeuvre, Jerome and Doelling, Keith B and Arnal, Luc H and Lazard, Diane S},
+  journal={Hearing Research},
+  pages={109355},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
+```bibtex
+@article{bonetti2025shared,
+  title={Shared and modality-specific brain networks underlying predictive coding of temporal sequences},
+  author={Bonetti, Leonardo and Fernandez-Rubio, Gemma and Rosso, Mattia and Carlomagno, Francesco and Malvaso, Antonio and Greco, Antonino and Kringelbach, Morten L and Vuust, Peter},
+  journal={bioRxiv},
+  pages={2025--07},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+```bibtex
+@article{ye2025sensory,
+  title={Sensory integration strategies exhibit distinct state-dependent dynamics},
+  author={Ye, Letizia and Masri, Hanna and Churchland, Anne},
+  journal={Journal of Vision},
+  volume={25},
+  number={9},
+  pages={2461--2461},
+  year={2025},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+```
+
+```bibtex
+@article{ma2025artificial,
+  title={How do artificial neural networks (ANNs) respond to audiovisual illusions such as the McGurk effect?},
+  author={Ma, Haotian and Wang, Zhengjia and Magnotti, John F and Zhang, Xiang and Beauchamp, Michael S},
+  journal={Journal of Vision},
+  volume={25},
+  number={9},
+  pages={2679--2679},
+  year={2025},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+```
+
+```bibtex
+@article{cardin2025higher,
+  title={Higher-order crossmodal representations in the auditory cortex of deaf and hearing individuals},
+  author={Cardin, Velia},
+  journal={bioRxiv},
+  pages={2025--07},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+```bibtex
+@article{bagheri2025recency,
+  title={Recency effect disappears when information is integrated from independent perceptual sources},
+  author={Bagheri, Sepide and Keramati, Mehdi and Ebrahimpour, Reza and Zabbah, Sajjad},
+  journal={arXiv preprint arXiv:2506.21781},
+  year={2025}
+}
+```
+
+```bibtex
+@article{camponogara2025contribution,
+  title={The Contribution of Audition and Proprioception in Unisensory and Multisensory Target Reaching},
+  author={Camponogara, Ivan},
+  journal={bioRxiv},
+  pages={2025--07},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+```bibtex
+@article{gunaydin2025causal,
+  title={Causal inference shapes crossmodal postdictive perception within the temporal window of multisensory integration},
+  author={Gunaydin, Gokberk and Moran, James Kenneth and Rohe, Tim and Senkowski, Daniel},
+  journal={bioRxiv},
+  pages={2025--07},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
 #### June 2025
+
+```bibtex
+@article{zhou2025frontal,
+  title={Frontal cortex organization supporting audiovisual processing during naturalistic viewing},
+  author={Zhou, Faxin and Khalilian-Gourtani, Amirhossein and Dugan, Patricia and Michalak, Andrew and Devinsky, Orrin and Rozman, Peter and Doyle, Werner and Friedman, Daniel and Flinker, Adeen},
+  journal={bioRxiv},
+  pages={2025--06},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+```bibtex
+@article{allen2025humans,
+  title={Humans Optimally Integrate Cutaneous and Proprioceptive Cues In Haptic Size Perception},
+  author={Allen, Keon S and Goldreich, Daniel},
+  journal={bioRxiv},
+  pages={2025--06},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+```bibtex
+@article{mills2025multisensory,
+  title={Multisensory integration for active mechanosensation in Drosophila flight},
+  author={Mills, Kevin M and Cowan, Noah J and Suver, Marie P},
+  journal={bioRxiv},
+  pages={2025--06},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+```bibtex
+@article{shao2025neural,
+  title={The neural processes underpinning flexible semantic retrieval in visual and auditory modalities},
+  author={Shao, Ximing and Zhang, Meichao and Wang, Xiuyi and Gouws, Andre and Jackson, Rebecca L and Smallwood, Jonathan and Krieger-Redwood, Katya and Jefferies, Elizabeth},
+  journal={bioRxiv},
+  pages={2025--06},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+```bibtex
+@article{tobyne2025combined,
+  title={Combined Auditory, Tactile, and Visual fMRI Reveals Sensory-Biased and Supramodal Working Memory Regions in Human Frontal Cortex},
+  author={Tobyne, Sean M and Brissenden, James A and Noyce, Abigail L and Somers, David C},
+  journal={bioRxiv},
+  pages={2025--06},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
 
 ~~~bibtex
 @article{vastano2025erps,
@@ -4293,13 +4478,13 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 | Researcher                   |   Papers |
 |:-----------------------------|---------:|
 | Stein, Barry E               |       64 |
+| Wallace, Mark T              |       34 |
 | Rowland, Benjamin A          |       33 |
-| Wallace, Mark T              |       31 |
 | Stanford, Terrence R         |       21 |
 | Meredith, M Alex             |       18 |
 | Noppeney, Uta                |       16 |
 | Spence, Charles              |       12 |
-| Foxe, John J                 |       11 |
+| Foxe, John J                 |       12 |
 | Schroeder, Charles E         |       10 |
 | Driver, Jon                  |       10 |
 | Stevenson, Ryan A            |        9 |
@@ -4310,16 +4495,16 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 | Jones, Samuel A              |        6 |
 | Romanski, Lizabeth M         |        6 |
 | Xu, Jinghong                 |        6 |
+| Molholm, Sophie              |        6 |
 | Cuppini, Cristiano           |        5 |
-| Molholm, Sophie              |        5 |
 | Talsma, Durk                 |        5 |
 | Vaughan, J William           |        5 |
 | Javitt, Daniel C             |        5 |
 | Meijer, Guido                |        5 |
 | Lansink, Carien S            |        5 |
+| Senkowski, Daniel            |        5 |
 | Ramachandran, Ramnarayan     |        4 |
 | Ferrari, Ambra               |        4 |
-| Senkowski, Daniel            |        4 |
 | Engel, Andreas K             |        4 |
 | Meijer, David                |        4 |
 | Sieben, Kay                  |        4 |
@@ -4335,6 +4520,7 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 | Woldorff, Marty G            |        4 |
 | Alvarado, Juan Carlos        |        4 |
 | Calvert, Gemma A             |        4 |
+| Rohe, Tim                    |        4 |
 | Maier, Joost X               |        3 |
 | Pavani, Francesco            |        3 |
 | Parise, Cesare V             |        3 |
@@ -4343,7 +4529,6 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 | Lomber, Stephen G            |        3 |
 | Bieler, Malte                |        3 |
 | Jiang, Huai                  |        3 |
-| Rohe, Tim                    |        3 |
 | Chandrasekaran, Chandramouli |        3 |
 | Noel, Jean-Paul              |        3 |
 | Kayser, Christoph            |        3 |
@@ -4351,6 +4536,8 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 | Werner, Sebastian            |        3 |
 | Perrault, Thomas J           |        3 |
 | Brammer, Michael J           |        3 |
+| Beauchamp, Michael S         |        3 |
+| Woynaroski, Tiffany G        |        3 |
 | Constantinidis, Christos     |        2 |
 | Ghosh, Marcus                |        2 |
 | Matyjek, Magdalena           |        2 |
@@ -4364,7 +4551,6 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 | Merrikhi, Yaser              |        2 |
 | Kok, Melanie A               |        2 |
 | Siemann, Justin K            |        2 |
-| Woynaroski, Tiffany G        |        2 |
 | Beierholm, Ulrik             |        2 |
 | Mahoney, Jeannette R         |        2 |
 | Misselhorn, Jonas            |        2 |
@@ -4404,7 +4590,6 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 | Duhamel, Jean-Rene           |        2 |
 | Quessy, Stephan              |        2 |
 | Jiang, Wan                   |        2 |
-| Beauchamp, Michael S         |        2 |
 | Argall, Brenna D             |        2 |
 | Martin, Alex                 |        2 |
 | Iversen, Susan D             |        2 |
@@ -4412,6 +4597,9 @@ Below are the tags used throughout this archive. Tagging papers is in progress. 
 | Munoz, Douglas P             |        2 |
 | Campbell, Ruth               |        2 |
 | Huneycutt, W Scott           |        2 |
+| Doyle, Werner                |        2 |
+| Devinsky, Orrin              |        2 |
+| Gori, Monica                 |        2 |
 
 ## 📌 Contributing
 
